@@ -12,7 +12,7 @@ Features :
 4.Handles invalid input (non-numeric entries).
 5.Displays results clearly in the console.
 
-Description: 
+Project Description: 
 -Built a Java application to calculate student marks
 -Accepted marks for multiple subjects as input
 -Calculated total and average marks
