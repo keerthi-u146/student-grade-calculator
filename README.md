@@ -12,6 +12,13 @@ Features :
 4.Handles invalid input (non-numeric entries).
 5.Displays results clearly in the console.
 
+Description: 
+-Built a Java application to calculate student marks
+-Accepted marks for multiple subjects as input
+-Calculated total and average marks
+-Assigned grade based on performance using conditions
+-Displayed final result in console output
+
 How to Run :
 1.Download or clone the repository.
 2.Open terminal in the project folder.
